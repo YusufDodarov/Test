@@ -10,3 +10,4 @@ export default async function Header() {
   return <InnerHeader isAdmin={isAdmin} auth={auth}/>
 }
 
+

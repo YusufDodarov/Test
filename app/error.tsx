@@ -16,4 +16,5 @@ function ErrorPage({ error, reset }: { error: Error; reset: () => void }) {
   );
 }
 
+
 export default ErrorPage;
